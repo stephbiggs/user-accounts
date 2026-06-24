@@ -1,7 +1,7 @@
 # Creating Users in Microsoft Azure's Entra ID <p align="center">
 <img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
 </p>
-<h1>Creating User's in Our Lab Environment (Azure)</h1>
+<h1>Creating User's in a Lab Environment (Azure)</h1>
 This tutorial outlines the process of creating users in Entra ID.<br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
