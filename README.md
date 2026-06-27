@@ -11,7 +11,7 @@ This tutorial outlines the process of creating users in Entra ID.<br />
 <h2>Users Created</h2>
 <p>
 <img width="3174" height="578" alt="Screenshot_2026-06-21_164835" src="https://github.com/user-attachments/assets/f1f4655b-d0ba-44c8-9f55-aeae1baa82ae" />
-/>
+
 </p>
 <p>
 Created a new user named Talia Jackson.
